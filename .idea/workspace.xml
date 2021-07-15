@@ -15,8 +15,18 @@
   <component name="ChangeListManager">
     <list default="true" id="73939c1b-818e-41aa-b43b-066e3aaf3b14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baskets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/baskets/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/admins/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/templates/admins/admin-users-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/admins/templates/admins/admin-users-create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/templates/admins/admin-users-read.html" beforeDir="false" afterPath="$PROJECT_DIR$/admins/templates/admins/admin-users-read.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/templates/admins/admin-users-update-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/admins/templates/admins/admin-users-update-delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/templates/admins/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/admins/templates/admins/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/templates/admins/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admins/templates/admins/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/admins/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/templates/products/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +87,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625841199220">
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626369196797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625841199220" />
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1626369196797" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1625583704034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -93,9 +103,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1626267486779" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1625583723936">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1626369537067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625583723936" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1626369537067" />
   </component>
 </project>
